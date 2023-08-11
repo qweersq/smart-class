@@ -212,13 +212,6 @@
                     </div>
                 </div>
             </div>
-            <!-- /.row -->
-
-            <!-- Main Footer -->
-            <footer class="main-footer">
-                <strong>Copyright &copy; 2022 <a href="#">Aquaponic</a>.</strong>
-                All rights reserved.
-            </footer>
         </div>
         <!-- ./wrapper -->
 
